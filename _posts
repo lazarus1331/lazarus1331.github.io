@@ -10,8 +10,6 @@ tags:
   - test
 ---
 
-## This is a test
-
 # This is a level 1 header
 
 ## This is a level 2 header
@@ -19,5 +17,3 @@ tags:
 ```this is a quote```
 
     this is code
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
