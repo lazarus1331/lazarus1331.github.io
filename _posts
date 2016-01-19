@@ -4,8 +4,8 @@ title: Test
 photo_url: ""
 disqus: true
 fbcomments: false
-published: false
-category: docker
+published: true
+category: blog
 tags: null
 ---
 
