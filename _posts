@@ -1,12 +1,13 @@
 ---
 layout: post
-title: ""
+title: test
 photo_url: ""
 disqus: true
 fbcomments: false
-published: false
+published: true
 category: docker
-tags: null
+tags: 
+  - test
 ---
 
 ## A New Post
